@@ -113,12 +113,27 @@ memory-game/
 
 ## 📝 License
 
-This project is based on Marina Ferreira's tutorial and is open for educational purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**You are free to:**
+- ✅ Use the code for personal or commercial projects
+- ✅ Modify and adapt the code
+- ✅ Distribute the code
+- ✅ Use it in private or public projects
+
+**Under the condition that:**
+- You include the original copyright notice and license
+- You acknowledge the original tutorial by Marina Ferreira
+
+This is an open-source project, completely free to use and modify!
 
 ## 🙏 Acknowledgments
 
-- **Marina Ferreira** - Original tutorial and design
-- **Code Sketch** - Video tutorial and inspiration
+- **[Marina Ferreira](https://github.com/marina-ferreira)** - Original tutorial and design
+  - [Tutorial Website](https://marina-ferreira.github.io/tutorials/js/memory-game/)
+  - [Original Repository](https://github.com/marina-ferreira/memory-game)
+- **[Code Sketch](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)** - Video tutorial and inspiration
+  - [YouTube Channel](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 - All contributors to the original memory game tutorial
 
 ## 🎯 Learning Concepts Demonstrated
